@@ -38,7 +38,7 @@ return array(
 	'spam' => 'Spam',
 
 	'inactive' => 'Inactive',
-	'active' => 'Active',
+	'active' => 'Aktif',
 
 	// roles
 	'administrator' => 'Admin',
