@@ -11,17 +11,17 @@ return array(
 	// words
 	'save' => 'Simpan',
 	'delete' => 'Hapus',
-	'update' => 'Update',
+	'update' => 'Perbarui',
 	'edit' => 'Edit',
 	'editing' => 'Editing',
-	'create' => 'Create',
-	'created' => 'Created',
+	'create' => 'Buat',
+	'created' => 'Dibuat',
 	'submit' => 'Submit',
 	'close' => 'Tutup',
 	'status' => 'Status',
-	'manage' => 'Manage',
-	'reset' => 'Reset',
-	'all' => 'All',
+	'manage' => 'Kelola',
+	'reset' => 'Atur',
+	'all' => 'Semua',
 
 	// pagination
 	'next' => 'Next',
@@ -30,14 +30,14 @@ return array(
 	'last' => 'Last',
 
 	// statuses
-	'draft' => 'Draft',
-	'archived' => 'Archived',
+	'draft' => 'Draf',
+	'archived' => 'Arsip',
 	'published' => 'Published',
 	'pending' => 'Pending',
 	'approved' => 'Approved',
 	'spam' => 'Spam',
 
-	'inactive' => 'Inactive',
+	'inactive' => 'Non Aktif',
 	'active' => 'Aktif',
 
 	// roles
@@ -46,16 +46,16 @@ return array(
 	'user' => 'User',
 
 	'log_in' => 'Log in',
-	'login' => 'Login',
+	'login' => 'Masuk',
 	'log_out' => 'Log out',
-	'logout' => 'Logout',
+	'logout' => 'Keluar',
 
 	// pharses
-	'visit_your_site' => 'Visit your site',
-	'powered_by_anchor' => 'Powered by Anchor, version %s',
-	'make_blogging_beautiful' => 'Make blogging beautiful.',
+	'visit_your_site' => 'Kunjungi site anda',
+	'powered_by_anchor' => 'Didukung oleh Anchor, versi %s',
+	'make_blogging_beautiful' => 'Buatlah blog yang indah.',
 
 	// messages
-	'confirm_delete' => 'Are you sure you want to delete? This can’t be undone!'
+	'confirm_delete' => 'Apakah anda yakin ingin menghapusnya? Ini tidak dapat dibatalkan'
 
 );
