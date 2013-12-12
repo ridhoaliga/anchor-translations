@@ -2,27 +2,27 @@
 
 return array(
 
-	'category' => 'Category',
-	'categories' => 'Categories',
+	'category' => 'Kategori',
+	'categories' => 'Kategori',
 
-	'create_category' => 'Create a new category',
+	'create_category' => 'Tambah kategori baru',
 	'edit_category' => 'Editing &ldquo;%s&rdquo;',
 
 	// form fields
-	'title' => 'Title',
-	'title_explain' => 'Your category title.',
-	'title_missing' => 'Please enter a title',
+	'title' => 'Judul',
+	'title_explain' => 'Judul kategori.',
+	'title_missing' => 'Silahkan masukkan judul.',
 
 	'slug' => 'Slug',
-	'slug_explain' => 'The slug for your category.',
+	'slug_explain' => 'Slug untuk kategori anda.',
 
-	'description' => 'Description',
+	'description' => 'Deskripsi',
 	'description_explain' => 'What your category is about.',
 
 	// messages
-	'created' => 'Your new category has been added.',
-	'updated' => 'Your category has been updated.',
-	'deleted' => 'Your category has been deleted.',
-	'delete_error' => 'You must have at least one category.',
+	'created' => 'Kategori anda telah ditambahkan.',
+	'updated' => 'Kategori anda telah diupdate',
+	'deleted' => 'Kategori anda telah dihapus.',
+	'delete_error' => 'Anda harus memiliki setidaknya satu kategori.',
 
 );
