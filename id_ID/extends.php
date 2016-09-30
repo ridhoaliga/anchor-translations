@@ -32,22 +32,22 @@ return array(
 
         'label' => 'Label',
         'label_explain' => 'Human readable name for your field',
-        'label_missing' => 'Please enter a label',
+        'label_missing' => 'Silahkan tulis label',
 
-        'attribute_type' => 'File types',
+        'attribute_type' => 'Tipe berkas',
         'attribute_type_explain' => 'Comma separated list of accepted file types, empty to accept all.',
 
         // images
         'attributes_size_width' => 'Lebar maks. gambar',
-        'attributes_size_width_explain' => 'Images will be resized if they are bigger than the max size',
+        'attributes_size_width_explain' => 'Gambar akan menyesuaikan jika melebihi dari ukuran yang ditentukan',
 
         'attributes_size_height' => 'Tinggi maks. gambar',
-        'attributes_size_height_explain' => 'Images will be resized if they are bigger than the max size',
+        'attributes_size_height_explain' => 'Gambar akan menyesuaikan jika melebihi dari ukuran yang ditentukan',
 
         // custom vars
         'name' => 'Nama',
-        'name_explain' => 'A unique name',
-        'name_missing' => 'Please enter a unique name',
+        'name_explain' => 'Nama unik',
+        'name_missing' => 'Silahkan ketik nama unik',
         'name_exists' => 'Nama sudah digunakan',
 
         'value' => 'Value',
@@ -57,11 +57,11 @@ return array(
 
         // messages
         'variable_created' => 'Variabel anda telah ditambahkan',
-        'variable_updated' => 'Variabel anda telah diupdate',
+        'variable_updated' => 'Variabel anda telah diperbaharui',
         'variable_deleted' => 'Variabel anda telah dihapus',
 
-        'field_created' => 'Your field was created',
-        'field_updated' => 'Your field was updated',
-        'field_deleted' => 'Your field was deleted'
+        'field_created' => 'Kolom anda telah dibuat',
+        'field_updated' => 'Kolom anda telah diperbaharui',
+        'field_deleted' => 'Kolom anda telah terhapus'
 
 );
